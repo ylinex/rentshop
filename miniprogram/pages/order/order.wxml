@@ -1,0 +1,13 @@
+<!--miniprogram/pages/order/order.wxml-->
+orderStatus: 0,
+    account:0.1,
+    address:[],
+    products: [
+    {
+      order_id: '7217ba20a53811e9825141fe9cfd302d',
+      product_count: 1,
+      product_id: '5cf526aaa87a1a18b6624ae6',
+      product_img: 'cloud://demo-9g950xr680a4f632.6465-demo-9g950xr680a4f632-1304009770/product/product-meat@3.jpg',
+      product_name: '苹果电脑',
+      product_price: 0.1,
+    }]

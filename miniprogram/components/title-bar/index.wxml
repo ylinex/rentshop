@@ -1,0 +1,5 @@
+<!--components/title-bar/index.wxml-->
+<view class='container'>
+  <view class='line'></view>
+  <text class='text'>{{title}}</text>
+</view>
